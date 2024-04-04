@@ -1,0 +1,28 @@
+{
+    "pack": {
+        "authors": [
+            "AlexYTx"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/sayori.outfit.halfcasual.alexytx/index.json",
+        "description": "<a href='TBA'>Created by</a> AlexYTx",
+        "id": "sayori.outfit.halfcasual.alexytx",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Half-Casual",
+        "preview": [
+            "http://localhost:4716/repo/sayori.outfit.halfcasual.alexytx/l1.png",
+            "http://localhost:4716/repo/sayori.outfit.halfcasual.alexytx/r1.png"
+        ],
+        "searchWords": [],
+        "source": "TBA"
+    },
+    "authors": {
+        "AlexYTx": {
+            "reddit": "AlexYTx"
+        }
+    }
+}
