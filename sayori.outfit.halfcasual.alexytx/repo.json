@@ -7,7 +7,7 @@
             "Sayori"
         ],
         "dddg2Path": "AlexYTx/sayori.outfit.halfcasual.alexytx/index.json",
-        "description": "<a href='TBA'>Created by</a> AlexYTx",
+        "description": "<a href='https://www.reddit.com/user/alexytx/'>Created by</a> AlexYTx",
         "id": "sayori.outfit.halfcasual.alexytx",
         "kind": [
             "Styles"
@@ -17,8 +17,8 @@
             "AlexYTx/sayori.outfit.halfcasual.alexytx/l1.png",
             "AlexYTx/sayori.outfit.halfcasual.alexytx/r1.png"
         ],
-        "searchWords": [],
-        "source": "TBA"
+        "searchWords": [Half-Casual],
+        "source": "https://www.reddit.com/user/alexytx/"
     },
     "authors": {
         "AlexYTx": {
