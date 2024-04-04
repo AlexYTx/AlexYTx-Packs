@@ -6,7 +6,7 @@
         "characters": [
             "Sayori"
         ],
-        "dddg2Path": "https://alexytx.github.io/AlexYTx-Packs/sayori.outfit.halfcasual.alexytx/",
+        "dddg2Path": "https://alexytx.github.io/AlexYTx-Packs/sayori.outfit.halfcasual.alexytx/index.json",
         "description": "<a href='https://www.reddit.com/user/alexytx/'>Created by</a> AlexYTx",
         "id": "sayori.outfit.halfcasual.alexytx",
         "kind": [
@@ -14,8 +14,8 @@
         ],
         "name": "Half-Casual",
         "preview": [
-            "https://github.com/AlexYTx/AlexYTx-Packs/blob/main/sayori.outfit.halfcasual.alexytx/l1.png",
-            "https://github.com/AlexYTx/AlexYTx-Packs/blob/main/sayori.outfit.halfcasual.alexytx/r1.png"
+            "https://alexytx.github.io/AlexYTx-Packs/sayori.outfit.halfcasual.alexytx/l1.png",
+            "https://alexytx.github.io/AlexYTx-Packs/sayori.outfit.halfcasual.alexytx/r1.png"
         ],
         "searchWords": ["Half-Casual"],
         "source": "https://www.reddit.com/user/alexytx/"
