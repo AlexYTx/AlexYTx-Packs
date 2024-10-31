@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.flugel.der.freiheit.alexytx",
+    "styles": [
+        {
+            "name": "Flugel der Freiheit",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "Flugel der Freiheti",
+            "style": "Flugel der Freiheit",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./l1.png",
+                "./l2.png"
+            ],
+            "right": [
+                "./r1.png",
+                "./r2.png"
+            ]
+        },
+    ]
+}
