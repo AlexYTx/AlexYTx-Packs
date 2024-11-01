@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"alexytx": {}
+	},
+	"pack": {
+		"authors": [
+			"alexytx"
+		],
+		"characters": [
+			"Natsuki"
+		],
+		"description": "",
+		"id": "natsuki.flugel.der.freiheit.alexytx",
+		"name": "natsuki.flugel.der.freiheit",
+		"kind": [
+			"Styles"
+		],
+		"preview": [],
+		"source": "",
+		"dddg2Path": "./index.json"
+	}
+}

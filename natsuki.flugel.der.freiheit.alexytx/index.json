@@ -1,0 +1,53 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "natsuki.flugel.der.freiheit.alexytx",
+	"version": "2.0",
+	"dependencies": [
+		"dddg.buildin.base.natsuki"
+	],
+	"characters": [
+		{
+			"id": "dddg.buildin.base.natsuki:ddlc.natsuki",
+			"styleGroups": [
+				{
+					"id": "flugel.der.freiheit",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "pose_1",
+									"positions": {
+										"Left": [
+											[
+												"./l1.png"
+											],
+											[
+												"./l2.png"
+											]
+										],
+										"Right": [
+											[
+												"./l2.png"
+											],
+											[
+												"./r2.png"
+											]
+										],
+										"Variant": [
+											[
+												"./hair.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"dddg.buildin.base.natsuki:straight"
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
